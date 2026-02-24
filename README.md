@@ -24,8 +24,8 @@ With one-click Auto Scan and PDF report generation, users can instantly analyze 
 ## 🖥 System Requirements
 
 - Windows 10 / 11 (64-bit)
-- Minimum 4 GB RAM
-- 100 MB Free Storage
+- Minimum 2 GB RAM
+- 20 MB Free Storage
 
 ---
 
